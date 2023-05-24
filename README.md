@@ -1,2 +1,2 @@
 # StoryAppV2
- This is the final submission of Dicoding Android Intermediate Class
+ This is the project that i made for final submission in Dicoding Android Intermediate class
